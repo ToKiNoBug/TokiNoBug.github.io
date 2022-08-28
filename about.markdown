@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+### About this website
+This is the homepage of TokiNoBug.
+
+### About Jekyll theme
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
