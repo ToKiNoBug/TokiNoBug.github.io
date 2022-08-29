@@ -5,4 +5,4 @@
 layout: home
 ---
 
-index.markdown contents
+Here are blogs written by me.
