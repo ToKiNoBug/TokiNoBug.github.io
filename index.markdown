@@ -4,5 +4,5 @@
 
 layout: home
 ---
-# index.markdown contents
+
 index.markdown contents
