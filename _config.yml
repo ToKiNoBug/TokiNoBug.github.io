@@ -21,7 +21,7 @@
 title: Welcome to Toki's homepage
 email: tokinobug@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the homepage of TokiNoBug, a programmer majored in Chemical Engineering.
+  This is the homepage of TokiNoBug, a amateur programmer majored in chemical engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tokinobug.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
