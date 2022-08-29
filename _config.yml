@@ -26,11 +26,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tokinobug.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
 github_username:  ToKiNoBug
+show_downloads: false
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+#theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
